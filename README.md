@@ -14,5 +14,7 @@ ollama pull llama3.1:8b
 # other files
 
 first.py just gives a basic question answer
+
 demo.py is a email classifier
+
 image.py put tags on some images
